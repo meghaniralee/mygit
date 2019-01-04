@@ -1,8 +1,8 @@
 class HelloWorld
 {
-main()
+ public static void main(String args[])
 
 {
-Sysout("HelloWorld");
+System.out.println("HelloWorld");
 }
 }
